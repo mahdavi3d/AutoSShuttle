@@ -57,3 +57,13 @@ This will launch the script. You can then select the server you want to connect 
 
 
 Move the executable to a any convenient spot within your system and run ./AutoSShuttle from that location to establish a connection hassle-free. No more copying, pasting, or password typing required. Happy tunneling!
+
+
+
+=============
+
+In some runs you might see messages like below despite successful connection, Ignore them.
+[sudo] password for user: Sorry, try again.
+[sudo] password for uesr: 
+sudo: no password was provided
+sudo: 1 incorrect password attempt
